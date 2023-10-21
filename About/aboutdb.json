@@ -6,10 +6,13 @@
       "location": "Place",
       
         "instagram": "https://www.instagram.com/your-instagram",
-        "instaIMG": "https://androidcloudpearl.github.io/api/images/Facebok.png",
+        "instaIMG": "https://androidcloudpearl.github.io/api/images/Instgram.png",
         "twitter": "https://twitter.com/your-twitter",
+        "twitterIMG": "https://androidcloudpearl.github.io/api/images/Twiter.png",
         "facebook": "https://www.facebook.com/your-facebook",
-        "linkedin": "https://www.linkedin.com/in/your-linkedin"
+        "facebookIMG" : "https://androidcloudpearl.github.io/api/images/Facebok.png",
+        "linkedin": "https://www.linkedin.com/in/your-linkedin",
+        "linkedinIMG" : "https://androidcloudpearl.github.io/api/images/Linkedin.png"
       
 
     }
