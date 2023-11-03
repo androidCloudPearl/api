@@ -1,0 +1,40 @@
+{
+    "invitationData":
+    [
+    {
+      "id": "1",
+      "function_Name": "My First Invitation",
+      "invited_By": "Cloud_pearl",
+      "date": "2023-12-15",
+      "liked":"false"
+    },
+    {
+      "id": "2",
+      "function_Name": "Dipak's Weddings",
+      "invited_By": "Dipak Patil",
+      "date": "2023-12-05",
+      "liked":"false"
+    },
+    {
+      "id": "3",
+      "function_Name": "Samar's Birthday",
+      "invited_By": "Umakant Patil",
+      "date": "2023-12-20",
+      "liked":"false"
+    },
+    {
+      "id": "4",
+      "function_Name": "Dipak's Haldi",
+      "invited_By": "Dipak Patil",
+      "date": "2023-12-19",
+      "liked":"false"
+    },
+    {
+      "id": "5",
+      "function_Name": "My First Invitation",
+      "invited_By": "Cloud_pearl",
+      "date": "2023-10-15",
+      "liked":false
+    }
+  ]
+}
