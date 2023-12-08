@@ -6,21 +6,21 @@
         "id": 1,
         "name": "Girish Mahajan",
         "message": "A Heartfelt Invitation to Kanhaiya and the Entire Family",
-        "image": "C:/Users/USER/Projects/Amantran_App/src/images/UserProfile.png",
+        "image": "https://androidcloudpearl.github.io/api/images/UserProfile.png",
         "video": { "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4" }
       },
       {
         "id": 2,
         "name": "Nandkishor Mahajan",
         "message": "A Heartfelt Invitation to Kanhaiya and the Entire Family",
-        "image": "../../images/UserProfile.png",
-        "video": { "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4" }
+        "image": "https://androidcloudpearl.github.io/api/images/UserProfile.png",
+        "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4"
       },
       {
         "id": 3,
         "name": "Raksha Khadse .MP",
         "message": "A Heartfelt Invitation to Kanhaiya and the Entire Family",
-        "image": "../../images/UserProfile.png",
+        "image": "https://androidcloudpearl.github.io/api/images/UserProfile.png",
         "video": { "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4" }
       }
     ],
