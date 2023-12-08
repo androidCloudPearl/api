@@ -1,0 +1,32 @@
+
+{
+  "invitations": [
+    {
+      "id": 1,
+      "message": "Join Us in Celebrating the Union of Roshan and Neha: A Heartfelt Invitation to Kanhaiya and the Entire Family",
+       "image": "https://androidcloudpearl.github.io/api/images/Wed.png",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4"
+    },
+    {
+      "id": 2,
+      "message": "Join Us in Celebrating the Union of Roshan and Neha: A Heartfelt Invitation to Kanhaiya and the Entire Family",
+      "image": "https://androidcloudpearl.github.io/api/images/Wed.png",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4"
+    },
+    {
+      "id": 3,
+      "message": "Join Us in Celebrating the Union of Roshan and Neha: A Heartfelt Invitation to Kanhaiya and the Entire Family",
+       "image": "https://androidcloudpearl.github.io/api/images/Wed.png",
+      "video": { "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4" }
+
+    },
+    {
+      "id": 4,
+      "message": "Join Us in Celebrating the Union of Roshan and Neha: A Heartfelt Invitation to Kanhaiya and the Entire Family",
+       "image": "https://androidcloudpearl.github.io/api/images/Wed.png",
+      "video": { "uri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/BigBuckBunnyVideo.mp4" }
+
+    }
+    
+  ]
+}
